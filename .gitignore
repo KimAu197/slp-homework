@@ -1,0 +1,12 @@
+hw2/task1_csv_副本/
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+hw2/cache_embed/
+hw2/catboost_info/
+hw2/nltk_data/
+hw2/jl7199.zip
+hw3/opensmile/
+hw3/opensmile_features/
+hw2/task1_csv_副本/

@@ -1,7 +1,6 @@
 # COMS6706W Advanced Spoken Language Processing - Homework
 
 **Course:** COMS6706W Advanced Spoken Language Processing  
-**Student:** Jinzi Luo (jl7199)  
 **Semester:** Fall 2025
 
 This repository contains three homework assignments focusing on speech analysis, dialogue act recognition, and emotion recognition in speech.
